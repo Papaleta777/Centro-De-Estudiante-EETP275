@@ -1,0 +1,48 @@
+header{
+
+
+    background-color: rgb(102, 149, 187);
+    overflow: hidden;
+    #logo{
+
+        height: 154px;
+        width: 152px;
+        float: left;
+        
+
+
+    }
+
+
+
+}
+
+#ig{
+
+
+
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(72, 155, 233);
+
+
+
+}
+
+
+
+body{
+
+    background-color: rgb(143, 187, 223);
+
+
+}
+    
+h1{
+    text-align: right;
+
+
+
+}
+    
+
